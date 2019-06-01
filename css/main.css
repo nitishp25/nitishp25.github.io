@@ -64,7 +64,6 @@ nav a {
 nav a:hover {
     font-size: 17.1px;
     color: #000000;
-    transition: 0.25s all;
     border-bottom: 1px solid #000000;
 }
 
