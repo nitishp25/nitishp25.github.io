@@ -7,6 +7,12 @@ body {
     margin: 0;
     padding: 0;
     top: 0;
+<<<<<<< HEAD
+=======
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+>>>>>>> 03b664fc3984fb2d5e971931eb4751b86dbd23be
     color: #363636;
 }
 
@@ -15,7 +21,10 @@ body {
   
     height: 100vh;
     background: #e6e6e6;
+<<<<<<< HEAD
     display: flex;
+=======
+>>>>>>> 03b664fc3984fb2d5e971931eb4751b86dbd23be
 
 }
 
@@ -40,7 +49,11 @@ body {
 nav {
     position: absolute;
     float: right;
+<<<<<<< HEAD
     right: 7%;
+=======
+    margin-left: 75%;
+>>>>>>> 03b664fc3984fb2d5e971931eb4751b86dbd23be
     padding-top: 25px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -65,7 +78,10 @@ nav a {
 nav a:hover {
     font-size: 17.1px;
     color: #000000;
+<<<<<<< HEAD
     transition: 0.25s all;
+=======
+>>>>>>> 03b664fc3984fb2d5e971931eb4751b86dbd23be
     border-bottom: 1px solid #000000;
 }
 
@@ -107,4 +123,8 @@ footer li a {
     font-size: 13px;
     font-weight: 100;
 }
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> 03b664fc3984fb2d5e971931eb4751b86dbd23be
